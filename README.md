@@ -1,5 +1,11 @@
 # Reto-7
 ### En este reto se comprende el trabajo aprendido del uso del "while"
-Comenzando con los ejercicios mas sencillos para su mayor comprencion.
+Comenzando con los ejercicios mas sencillos para su mayor comprencion. por ejemplo
 
-![image](https://github.com/AkilesVengo/Reto-7/assets/142427542/ee6ff7ad-d8b8-4477-bbfd-191cded87490)
+```
+n = 0
+while ( n < 100):
+    n += 1
+    print (n, n**2)
+    
+```
